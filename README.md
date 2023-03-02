@@ -69,7 +69,7 @@
 </p>
 <p>
 <a href=" https://www.linkedin.com/in/ragib-tahmid-shuvo/"><img src="https://img.shields.io/badge/-Ragib%20Tahmid%20Shuvo%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ragibtahmid1@gmail.com"><img src="https://img.shields.io/badge/- ragibtahmid1@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:ragibtahmid1@gmail.com"><img src="https://img.shields.io/badge/-ragibtahmid1@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
  
 <br>
@@ -91,7 +91,7 @@
 
 <p align="center">
 <a href="https://github.com/ragibtahmid1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username= ragibtahmid1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ragibtahmid1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username= ragibtahmid1&layout=compact&langs_count=8&theme=algolia"/>
 </a>
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user= ragibtahmid1&show_icons=true&locale=en&layout=demo&theme=algolia" />
@@ -110,16 +110,16 @@
 
 ## 🚀Github Metrics
 <p align="center">
-	<img width="625em" src="https://github.com/ragibtahmid1/ ragibtahmid1/blob/main/github-metrics.svg" />
+	<img width="625em" src="https://github.com/ragibtahmid1/ragibtahmid1/blob/main/github-metrics.svg" />
 </p>
 <br>
 
 ## 🐛Github Magic Game
 <p align="center">
-  <img src="https://github.com/ ragibtahmid1/ ragibtahmid1/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/ragibtahmid1/ragibtahmid1/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 <br>
 <p align="center"> 
   Views<br>
-  <img src="https://profile-counter.glitch.me/ ragibtahmid1/count.svg" />
+  <img src="https://profile-counter.glitch.me/ragibtahmid1/count.svg" />
 </p>
